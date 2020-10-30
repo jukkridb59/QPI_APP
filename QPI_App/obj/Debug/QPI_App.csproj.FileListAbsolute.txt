@@ -11,3 +11,4 @@ C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Debug\QPI_App.pdb
 C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Debug\QPI_App.systemSelectForm.resources
 C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Debug\QPI_App.Page.Customer_Page.SelectCustomerPage.resources
 C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Debug\QPI_App.Page.Store_Page.SelectStorePage.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Debug\QPI_App.Page.Customer_Page.AddCustomerPage.resources

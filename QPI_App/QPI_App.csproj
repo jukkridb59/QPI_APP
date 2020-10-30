@@ -46,11 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\connect.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page\Customer_Page\AddCustomerPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page\Customer_Page\AddCustomerPage.Designer.cs">
+      <DependentUpon>AddCustomerPage.cs</DependentUpon>
     </Compile>
     <Compile Include="Page\Customer_Page\SelectCustomerPage.cs">
       <SubType>Form</SubType>
@@ -79,6 +86,9 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page\Customer_Page\AddCustomerPage.resx">
+      <DependentUpon>AddCustomerPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Page\Customer_Page\SelectCustomerPage.resx">
       <DependentUpon>SelectCustomerPage.cs</DependentUpon>

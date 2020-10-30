@@ -1,0 +1,14 @@
+C:\Users\sonix\source\repos\QPI_App\QPI_App\bin\Release\QPI_App.exe.config
+C:\Users\sonix\source\repos\QPI_App\QPI_App\bin\Release\QPI_App.exe
+C:\Users\sonix\source\repos\QPI_App\QPI_App\bin\Release\QPI_App.pdb
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.csprojAssemblyReference.cache
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.Form1.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.Page.Customer_Page.AddCustomerPage.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.Page.Customer_Page.SelectCustomerPage.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.Page.Store_Page.SelectStorePage.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.Properties.Resources.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.systemSelectForm.resources
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.csproj.GenerateResource.cache
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.csproj.CoreCompileInputs.cache
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.exe
+C:\Users\sonix\source\repos\QPI_App\QPI_App\obj\Release\QPI_App.pdb

@@ -150,9 +150,8 @@ namespace QPI_App
 
         private void btnAddCus_Click(object sender, EventArgs e)
         {
-            // ...
-            // code
-            // ...
+            openChildForm(new AddCustomerPage());
+
             hideSubMenu();
         }
 

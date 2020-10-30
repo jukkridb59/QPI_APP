@@ -431,6 +431,7 @@
             this.MinimumSize = new System.Drawing.Size(1000, 550);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panel1.ResumeLayout(false);
             this.panelCusSubmenu.ResumeLayout(false);
             this.panelSystemSubmenu.ResumeLayout(false);
